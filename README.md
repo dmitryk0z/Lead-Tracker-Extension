@@ -1,4 +1,4 @@
-## Lead Tracker Extension (Completed - 08/11/2021)
+## Lead Tracker Extension
 
 Simple tracker extension that allows users to save leads found on the internet by saving a URL from the active tab, or by inputting a URL directly. As also, delete outdated leads from the tracker.
 
